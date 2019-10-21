@@ -2,13 +2,13 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:DSB/SSB amplitude modulation   <a name="top"></a> <br>
+<b> Experiment:DSB/SSB Crafting an Effective Speaker   <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab | <b> Electronics Engineering
-<b> Experiment|     <b> To study DSB/SSB amplitude modulation and determine its modulation factor.
+<b> Lab | <b> Professional Communication
+<b> Experiment|     <b> Listen and L
 
 
 <h4> [1. Focus Area](#LO)
@@ -19,7 +19,11 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-The students know the concept DSB/SSB amplitude modulation and they will learn how to determine its modulation factor,they will come to know how to use DSB/SSB transmitters learn about its circuit diagram and how thw modulation occurs and helpfull.
+In this experiment, the main focus is-
+1. To improve the pronunciation of the learner 
+2. To make them aware with phonemes 
+3. To make them learn how to distinguish words having different phonemes
+
 
 <br/>
 <div align="right">
