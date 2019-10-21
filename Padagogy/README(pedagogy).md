@@ -33,11 +33,11 @@ In this experiment, the main focus is-
 <hr>
 
 <a name="LO"></a>
-#### 2. Learning Objectives and Cognitive Level
+#### 2. Write Learning Objectives that can be achieved using virtual labs and the respective cognitive level, & action verbs.
 
-To study DSB/SSB amplitude modulation.
-To determine its modulation factor.
-
+To Master the 44 phonemes of English language
+Learn how to pronunciate the word
+learn American pronunciation of words
 
 <br/>
 <div align="right">
@@ -73,5 +73,5 @@ Read the theory and comprehend the concepts related to the experiment.
 
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
-1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
-2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
+1.|student will choose the button of that alphabets hose phonic sound he wants to listen| It will show phonic sound of the alphabet selected by the student  | To get knowledge of alphabets phonemes  
+2.| Student will select the words from the given words  whose is pronunciation he wants to listen | It will show phonic sound of the alphabets selected by the student | It will pronunciate the selected word |To improve pronunciate skill
