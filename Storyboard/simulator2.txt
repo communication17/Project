@@ -1,35 +1,33 @@
-<html>
-<head>
-<title>INTRODUCTION</title>
-</head>
-<body rightmargin="80" bgcolor ="orange"text="blue">
-<h1 align="center">Listen and learn the <b> phonic sound</b><br>of alphabets and letters</h1>
-<h3><font face="comic sans ms"Color="brown">There are 44 phonemes in English. Despite there being just 26 letters in the english language.<br>These 44 phonemes are broadly classified into the sounds of "basic"code and sounds of the "complex"code.<br>To become efficient ,accurate and fluent reader ,children it is necessary toknow about the phonic sound.</font></h3>
-<h2><font face="comic sans ms"Color="red">Phonic Sounds:</font></h2>
-<h3><font face="comic sans ms"Color="green"><i>Phonic</i> is a group of English sound.It produce by a letter that does not show like it letters name,like the "O" into"to" and"A" sound can be spelled as "a","ai","ay","ae","ey"and "eigh".</font></h3>
+## Storyboard (Round 2)
 
-<form id="form">
-	<input type="text" id="num1">
-	<input type="text" id="num2">
-	<input type="submit">
-</form>
+Experiment 1:Crafting an Effective Speaker 
 
-<div id="res"></div>
+### 1. Story Outline:
 
-<div id="anim" style="width: 100px; height: 200px; background-color: red;"></div>
+The experiment is based phonitics souds
 
-<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
-<script>
-$(document).ready(function(){
-	$("#form").submit(function(e){
-	var x= parseInt($("#num1").val())+parseInt($("#num2").val());
-	$("#res").html("width change to :"+x);
-	$("#anim").animate({width: x});
-	e.preventDefault();
-});
-});
-</script>
+In this experiment will we learn how phonemes  distinguish one word from the other and how to pronuncite the words in American English.
+In 1888  the INTERNATIONAL PHONITIC ALPHABET (IPA) was invented in order to have a system in which there was a one to one coresspondanace between each sound in language and each phonetic symbol .
+The term 'phoemes' refers to a unit of sound in specified language that distinguishes one word from other.
+For  example words 'bill' and 'pill' can be distinguished on the basis of the phonemes /b/ and /p/ .Similarly ,words 'bed' and 'bet' are two different words because of the phonemes /d/ and /t/ .Every language has fixed number of such distinctive speech sounds of 'phonemes'.  
 
-</body>
-</html>
+The objective of the experiment is to study DSB/SSB amplitude modulation and determine its modulation factor.
+### 2. Story:
+There  are 44 phonemes in english and these can be categorized into the "basic" code and sound of the "complex" code . 
+To become efficient ,accurate and fluent readers ,children (adults) must mster  this "code" through phonics instruction ad through the developement of phonemic awareness.
+ 
+### 5. Challenges and Questions
+##### 1. How many phonemes in english language 
+<br> <b> a) 20 </b> 
+<br> b) 10
+<br> c) 25 
+<br> d) 44
+<br> ANS:d    
+
+##### 2. In how many ways phonemes are classified in english language 
+<br> <b> a)2 </b>  
+<br> b) 1
+<br> ANS:a
+
+
 
