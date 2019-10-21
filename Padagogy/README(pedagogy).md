@@ -2,13 +2,13 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:DSB/SSB Crafting an Effective Speaker   <a name="top"></a> <br>
+<b> Experiment:Crafting an Effective Speaker <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab | <b> Professional Communication
-<b> Experiment|     <b> Listen and L
+<b> Experiment|   <b> Crafting an Effective Speaker
 
 
 <h4> [1. Focus Area](#LO)
@@ -18,7 +18,7 @@
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Experimentation and Data Analysis
+#### 1. Focus Area : 
 In this experiment, the main focus is-
 1. To improve the pronunciation of the learner 
 2. To make them aware with phonemes 
