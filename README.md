@@ -19,7 +19,7 @@ Listen and Learn Phonitics Sounds
 
 #### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id:--|:--|:--|:--|:-
+SrNo | Name | Faculty or Student | Department| Institute | Email id:--|:--|:--|:--|:-<br>
 Dr. Archana Singh | Faculty| Applied Science and Humanities |  Rajkiye Engineering College Banda |singharc81@gmail.com<br>
 2 | Shikha Pandey| Student |  Information Technology| Rajkiye Engineering College Banda |shikhapanday920@gmail.com<br>
 3 | Kavita Sonker | Student |  Information Technology | Rajkiye Engineering College Banda |kavitasonkar3210@gmail.com<br>
