@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: lightskyblue;
+}
+.main_header{
+    background-color: rgba(6, 26, 250, 0.469);
+    width: 90%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 10px;
+    padding: 10px;
+}
+.main{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+   
+    margin-top: 5px;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 15px 16px;
+  text-decoration: none;
+  border: 1px solid #555;
+}
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+  .main_sec{
+      margin-top: 50px;
+
+  }
+  .nav{
+      border-right: 2px solid black;
+      float: left;
+      width: 150px;
+      background: #fff;
+      height: 100%;
+  }
+  .content{
+      margin-left: 152px;
+      background: #fff;
+      padding: 10px;
+      margin-bottom: 50px;
+  }
+  .main_table{
+      border: 1px solid black;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 10px;
+      margin-top: 15px;
+      text-align: center;
+      font-size: 36px;
+  }
+  table, th, td{ 
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+  }
+  .aim{
+      margin-left: auto;
+      margin-right: auto;
+      padding: 5px;
+      table-layout: none;
+      border-collapse: collapse;
+
+  }
+  .popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  /* The actual popup */
+  .popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+  }
+  
+  /* Popup arrow */
+  .popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Toggle this class - hide and show the popup */
+  .popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+  }
+  
+  /* Add animation (fade in the popup) */
+  @-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+  }
+  
+  @keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+  }
+
+
+  .main_simulator{
+      text-align: center;
+
+  }
+
+  .main_footer{
+      background:rgba(72, 0, 255, 0.83);
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-align: center;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      color: white;
+      text-align: center;
+      
+  }
+  #true{
+      margin-left: 20px;
+      padding-top: 10px;
+  }
+  #false{
+    margin-left: 20px;
+    padding: 10px;
+}
+.test1{
+    padding: 15px;
+}
+
+
+.ref{
+  margin: 20px;
+}
