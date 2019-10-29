@@ -21,8 +21,8 @@ Listen and Learn Phonitics Sounds
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id:--|:--|:--|:--|:-<br>
 Dr. Archana Singh | Faculty| Applied Science and Humanities |  Rajkiye Engineering College Banda |singharc81@gmail.com<br>
-2 | Shikha Pandey| Student |  Information Technology| Rajkiye Engineering College Banda |shikhapanday920@gmail.com<br>
-3 | Kavita Sonker | Student |  Information Technology | Rajkiye Engineering College Banda |kavitasonkar3210@gmail.com<br>
+2 | Subodh Kumar| Student |  Information Technology| Rajkiye Engineering College Banda |george.1gautam@gmail.com<br>
+3 | Shikha Pandey| Student |  Information Technology| Rajkiye Engineering College Banda |shikhapanday920@gmail.com<br>
 4 | Tanya Raghav | Student |   Information Technology | Rajkiye Engineering College Banda |Tanyaraghav12345@gmail.com<br>
 5 | Sakshi | Student |  Information Technology | Rajkiye Engineering Colege Banda |sakshiexcel11@gmail.com<br>
 
