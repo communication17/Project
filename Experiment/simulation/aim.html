@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="js/script1.js">
+    <title>PC_vlab</title>
+            
+</head>
+<body>
+    <header class="main_header">
+        <h1>Crafting an Effective Communicator</h1>
+    </header>
+    <div class="main">
+        <section class="main_sec">
+            
+            <div class="nav">  
+               <ul>
+                  <li class="btn active"><a href="Experiment.html">Aim</a></li>
+                  <li><a href="Theory.html">Theory</a></li>
+                  <li><a href="pretest.html">Pre test</a></li>
+                  <li><a href="procedure.html">Procedure</a></li>
+                  <li><a href="Simulator.html">Simulation</a></li>
+                  <li><a href="posttest.html">Post test</a></li>
+                  <li><a href="References.html">References</a></li>
+                </ul>
+            </div>
+            <br>
+            <div class="content">
+              <h2> Aim:</h2>
+              <table class="aim">
+                <tr>
+                  <th>Experiment Objective</th>
+                  <th>Cognitive level</th>
+                  <th>Action (Verb)</th>
+                </tr>
+                <tr>
+                  <td>Students shall be able to identify phonetic symbols.</td>
+                  <td>Remembering</td>
+                  <td>Identify</td>
+                </tr>
+                <tr>
+                  <td>Students shall be able to compare and classify vowels and consonants sounds.</td>
+                  <td>Understanding</td>
+                  <td>Compare & Classify</td>
+                </tr>
+              </table>
+            </div>
+        </section>
+    </div>
+
+    <footer class="main_footer">
+        Copyright 2019 Vlab@recbanda created by Subodh Kumar
+</footer>
+<script>
+    // Add active class to the current button (highlight it)
+    var header = document.getElementById("myDIV");
+    var btns = header.getElementsByClassName("btn");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function() {
+      var current = document.getElementsByClassName("active");
+      current[0].className = current[0].className.replace(" active", "");
+      this.className += " active";
+      });
+    }
+    </script>
+</body>
+</html>
