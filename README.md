@@ -4,7 +4,7 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab. | <b>Applied Science and Humanities
+<b> Lab. | <b>Professional Communication Lab
 <b> Experiment|     <b> Crafting an Effective Speaker
 
 
