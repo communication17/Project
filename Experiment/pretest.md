@@ -1,9 +1,7 @@
 <div class="content">
                     <h3> Quiz I</h3>
                     <form method="post" action="mailto:george.1gautam@gmail.com?subject=Vocabulary Quiz 1" enctype="text/plain" class="test1">
-
-                        Check the answer to each multiple-coice question, and click on the "Send Form" button to submit the information.
-                        
+                        Check the answer to each multiple-coice question, and click on the "Send Form" button to submit the information. 
                         <P>1.	The number of sounds and letters in English is same:<BR>
                                  <input type="radio" name="colors" id="true">True<br>
                                 <input type="radio" name="colors" id="false">False<br>
