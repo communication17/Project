@@ -82,5 +82,9 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
-1.|student will choose the button of that alphabets hose phonic sound he wants to listen| It will show phonic sound of the alphabet selected by the student  | To get knowledge of alphabets phonemes  
-2.| Student will select the words from the given words  whose is pronunciation he wants to listen | It will show phonic sound of the alphabets selected by the student | It will pronunciate the selected word |To improve pronunciate skill
+1.|Student will click on Simulation tab| Simulator opens the experiment screen  |To open screen to perform experiment
+2.|student will hover the mouse on keyboard available in simulator| It will show phonic sound of the letters  | To know the phonic sound notation of the alphabets.
+3.|student will goto activity one | It will show some phonatic sound notations  | to get the task
+4.| Student will enter the correct word for the given notation in the box | It will show the entry is correct or incorrect | To practice
+3.|student will choose the button of that alphabets hose phonic sound he wants to listen| It will show phonic sound of the alphabet selected by the student  | To get knowledge of alphabets phonemes  
+4.| Student will select the words from the given words  whose is pronunciation he wants to listen | It will show phonic sound of the alphabets selected by the student | It will pronunciate the selected word |To improve pronunciate skill
