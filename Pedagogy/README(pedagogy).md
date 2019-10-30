@@ -64,12 +64,16 @@ Instructional Strategy will be implemented in the simulator as follows:
 <a name="IS"></a>
 #### 4. Task & Assessment Questions:
 
-1. | Student will be able to RECALL consonants and vowels.
-2. | The task is to SELECT the consonants and vowels from a given list or MCQs pertaining to the same. 
-3. | The assessment may be points/stars obtained for the same
+1. | 
+2. |  
+3. | 
+Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
 <br>
 
-<br/>
+Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
+:--|:--|:--|:-:
+1.|Student will be able to RECALL consonants and vowels. | The task is to SELECT the consonants and vowels from a given list or MCQs pertaining to the same.| The assessment may be points/stars obtained for the same
+
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
