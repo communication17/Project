@@ -33,8 +33,8 @@
 #### 2. Write Learning Objectives that can be achieved using virtual labs and the respective cognitive level, & action verbs.
 Sr.No | Learning Objective | Cognitive level | Action verb
 :--|:--|:--|:--:
-1.|Students will be able to RECALL consonants and vowels REMEMBER.| Remember  | -  
-2.| Students will be able to RELATE phonemes to consonants and vowels UNDERSTAND | Understand | -
+1.|Students will be able to RECALL consonants and vowels.| Remember  | -  
+2.| Students will be able to RELATE phonemes to consonants and vowels. | Understand | -
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
