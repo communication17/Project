@@ -11,10 +11,11 @@
 <b> Experiment|   <b> Crafting an Effective Speaker
 
 
-<h4> [1. Focus Area](#LO)
-<h4> [2. Learning Objectives ](#LO)
-<h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
+<h4> 1. Focus Area(#LO)
+<h4> 2. Learning Objectives (#LO)
+<h4> 3. Instructional Strategy (#LO)
+<h4> 4. Task & Assessment Questions](#AQ)
+<h4> 5. Simulator Interactions](#SI)
 <hr>
 
 <a name="LO"></a>
