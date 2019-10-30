@@ -44,9 +44,9 @@ Sr.No | Learning Objective | Cognitive level | Action verb
 
 <a name="LO"></a>
 #### 3. Instructional Strategy : 
- ### Name of Instructional Strategy  :     Expository
- ### Assessment Method : Formative Assessment
- ## Description:
+ ##### Name of Instructional Strategy  :     Expository
+ ##### Assessment Method : Formative Assessment
+ ###### Description:
 Instructional Strategy will be implemented in the simulator as follows: 
 <p>Students will identify the various components as per the arrangement to construct the setup. With this, they will get concept and purpose of each component.
  </p>
