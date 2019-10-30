@@ -63,11 +63,7 @@ Instructional Strategy will be implemented in the simulator as follows:
 
 <a name="IS"></a>
 #### 4. Task & Assessment Questions:
-
-1. | 
-2. |  
-3. | 
-Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
+Read the theory and comprehend the concepts related to the experiment.
 <br>
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
