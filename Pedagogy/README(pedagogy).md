@@ -46,9 +46,7 @@ Sr.No | Learning Objective | Cognitive level | Action verb
 #### 3. Task & Assessment Questions:
 
 1. | Student will be able to RECALL consonants and vowels.
-<br>
 2. | The task is to SELECT the consonants and vowels from a given list or MCQs pertaining to the same. 
-<br>
 3. | The assessment may be points/stars obtained for the same
 <br>
 
