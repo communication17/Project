@@ -1,4 +1,3 @@
-
  <div class="content">
             <h3 style="font-weight: 1200;"> Theory:</h3>
                 <p>Phonetics is a branch of linguistics that studies the sounds of human speech.  The term ‘phoneme’ refers to a unit of a sound that distinguishes one word from another.
