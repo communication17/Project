@@ -31,11 +31,10 @@
 
 <a name="LO"></a>
 #### 2. Write Learning Objectives that can be achieved using virtual labs and the respective cognitive level, & action verbs.
-
-1. Students will be able to RECALL consonants and vowels REMEMBER.   ### Cognitive level: Remember.
-2. Students will be able to RELATE phonemes to consonants and vowels UNDERSTAND. ### Cognitive level: Understand.
-
-<br/>
+Sr.No | Learning Objective | Cognitive level | Action verb
+:--|:--|:--|:--:
+1.|Students will be able to RECALL consonants and vowels REMEMBER.| Remember  | -  
+2.| Students will be able to RELATE phonemes to consonants and vowels UNDERSTAND | Understand | -
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -46,13 +45,11 @@
 
 #### 3. Task & Assessment Questions:
 
-Read the theory and comprehend the concepts related to the experiment. 
+Student will be able to RECALL consonants and vowels.
 <br>
-<div>
-    The quizes are provided that will judge and inhance the skills of the Student.
-    Each question is relevent to the experiment and just ment to increse the understanding of experiment and their concept.
- 
-</div>
+The task is to SELECT the consonants and vowels from a given list or MCQs pertaining to the same. 
+<br>
+The assessment may be points/stars obtained for the same
 <br>
 
 <br/>
