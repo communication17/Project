@@ -13,7 +13,7 @@
 
 <h4> 1. Focus Area(#LO)
 <h4> 2. Learning Objectives (#LO)
-<h4> 3. Instructional Strategy (#LO)
+<h4> 3. Instructional Strategy (#IS)
 <h4> 4. Task & Assessment Questions](#AQ)
 <h4> 5. Simulator Interactions](#SI)
 <hr>
@@ -42,9 +42,25 @@ Sr.No | Learning Objective | Cognitive level | Action verb
 <br/>
 <hr>
 
-<a name="IS"></a>
+<a name="LO"></a>
+#### 3. Instructional Strategy : 
+ ### Name of Instructional Strategy  :     Expository
+ ### Assessment Method : Formative Assessment
+ ## Description:
+Instructional Strategy will be implemented in the simulator as follows: 
+<p>Students will identify the various components as per the arrangement to construct the setup. With this, they will get concept and purpose of each component.
+ </p>
 
-#### 3. Task & Assessment Questions:
+
+<br/>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
+
+<a name="IS"></a>
+#### 4. Task & Assessment Questions:
 
 1. | Student will be able to RECALL consonants and vowels.
 2. | The task is to SELECT the consonants and vowels from a given list or MCQs pertaining to the same. 
@@ -60,7 +76,7 @@ Sr.No | Learning Objective | Cognitive level | Action verb
 
 <a name="SI"></a>
 
-#### 4. Simulator Interactions:
+#### 5. Simulator Interactions:
 <br>
 
 Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
