@@ -34,8 +34,10 @@
 #### 2. Write Learning Objectives that can be achieved using virtual labs and the respective cognitive level, & action verbs.
 Sr.No | Learning Objective | Cognitive level | Action verb
 :--|:--|:--|:--:
-1.|Students will be able to RECALL consonants and vowels.| Remember  | -  
-2.| Students will be able to RELATE phonemes to consonants and vowels. | Understand | -
+1.| Students will be able to RECALL consonants and vowels.| Remember  | Identify
+2.| Students will be able to RELATE phonemes to consonants and vowels. | Understand | Compare
+3.| Students shall be able to identify phonetic symbols.| Remember  | Identify 
+4.| Students shall be able to compare and classify vowels and consonants sounds.	 | Understand | Compare
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -48,7 +50,7 @@ Sr.No | Learning Objective | Cognitive level | Action verb
  ##### Assessment Method : Formative Assessment
  ###### Description:
 Instructional Strategy will be implemented in the simulator as follows: 
-<p>Students will identify the various components as per the arrangement to construct the setup. With this, they will get concept and purpose of each component.
+<p>Students will identify the various components as per the arrangement to construct the setup. With this, they will get concept and purpose of each component. They need to enter the correct word as mentioned in the simulator in the given block to study the phonetic sounds.
  </p>
 
 
