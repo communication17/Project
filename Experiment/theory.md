@@ -14,8 +14,7 @@
                 </p>
                 <h3>Vowels:</h3>
                 <p>A vowel sound is produced without the stoppage of air. Air comes out from the mouth without friction. 
-                    For example while speaking ‘Art’ air escapes freely and continuously without any friction while pronouncing the first sound AH. </p>
-                    
+                    For example while speaking ‘Art’ air escapes freely and continuously without any friction while pronouncing the first                      sound AH. </p>    
                 <h4>Monophthongs</h4>
                 <p>These are also known as pure vowels. They are further classified as Long Vowels and Short Vowels</p>
                 <img style="width: 400px" height="300x"; src="images/monophthongs.png" alt="image">
