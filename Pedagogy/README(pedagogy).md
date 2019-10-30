@@ -19,7 +19,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : 
- Reinforce theoretical concepts
+ 1. Reinforce theoretical concepts
 
 
 <br/>
@@ -32,9 +32,8 @@
 <a name="LO"></a>
 #### 2. Write Learning Objectives that can be achieved using virtual labs and the respective cognitive level, & action verbs.
 
-To Master the 44 phonemes of English language
-Learn how to pronunciate the word
-learn American pronunciation of words
+1. Students will be able to RECALL consonants and vowels REMEMBER.   ### Cognitive level: Remember.
+2. Students will be able to RELATE phonemes to consonants and vowels UNDERSTAND. ### Cognitive level: Understand.
 
 <br/>
 <div align="right">
