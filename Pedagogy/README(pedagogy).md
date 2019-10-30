@@ -19,10 +19,7 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : 
-In this experiment, the main focus is-
-1. To improve the pronunciation of the learner 
-2. To make them aware with phonemes 
-3. To make them learn how to distinguish words having different phonemes
+ Reinforce theoretical concepts
 
 
 <br/>
